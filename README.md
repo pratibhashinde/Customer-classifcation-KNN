@@ -1,3 +1,3 @@
 # Project-3-customer-classifcation-KNN
 
-Finding best k for the model and using the same k for test data.
+Customer classification is done using KNN classifier. The best k for maximum accuracy is found out and then implemeted on test data.
